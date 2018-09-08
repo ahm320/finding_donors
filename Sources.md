@@ -1,0 +1,11 @@
+# finding_donors
+### https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
+### http://www.simafore.com/blog/bid/62333/4-key-advantages-of-using-decision-trees-for-predictive-analytics
+### https://www.edupristine.com/blog/decision-trees-development-and-scoring
+### https://statinfer.com/204-6-8-svm-advantages-disadvantages-applications/
+### http://www.svms.org/disadvantages.html
+### http://phirilytics.blogspot.com/2017/07/ensemble-model-strengthsand-some.html
+### https://elitedatascience.com/machine-learning-algorithms
+### https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+### http://www2.cs.man.ac.uk/~raym8/comp37212/main/node264.html
+### https://people.revoledu.com/kardi/tutorial/KNN/Strength%20and%20Weakness.htm
